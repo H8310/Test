@@ -1,0 +1,1073 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78C0DD-646D-4AEB-BE04-BCADAC2895CF}|..\\ERMS.API\\ERMS.API.csproj|c:\\users\\hibaa\\source\\repos\\erms.api\\erms.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\erms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:erms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78C0DD-646D-4AEB-BE04-BCADAC2895CF}|..\\ERMS.API\\ERMS.API.csproj|c:\\users\\hibaa\\source\\repos\\erms.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78C0DD-646D-4AEB-BE04-BCADAC2895CF}|..\\ERMS.API\\ERMS.API.csproj|c:\\users\\hibaa\\source\\repos\\erms.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\views\\worktasks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:views\\worktasks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\controllers\\worktaskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:controllers\\worktaskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78C0DD-646D-4AEB-BE04-BCADAC2895CF}|..\\ERMS.API\\ERMS.API.csproj|c:\\users\\hibaa\\source\\repos\\erms.api\\controllers\\worktaskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\views\\worktasks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:views\\worktasks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\views\\worktasks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:views\\worktasks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\views\\worktasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:views\\worktasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\services\\worktaskapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:services\\worktaskapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78C0DD-646D-4AEB-BE04-BCADAC2895CF}|..\\ERMS.API\\ERMS.API.csproj|c:\\users\\hibaa\\source\\repos\\erms.api\\models\\worktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78C0DD-646D-4AEB-BE04-BCADAC2895CF}|..\\ERMS.API\\ERMS.API.csproj|c:\\users\\hibaa\\source\\repos\\erms.api\\data\\worktaskdatainmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\controllers\\testscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:controllers\\testscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\services\\employeeapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:services\\employeeapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\services\\projectapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:services\\projectapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78C0DD-646D-4AEB-BE04-BCADAC2895CF}|..\\ERMS.API\\ERMS.API.csproj|c:\\users\\hibaa\\source\\repos\\erms.api\\data\\employeedatainmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78C0DD-646D-4AEB-BE04-BCADAC2895CF}|..\\ERMS.API\\ERMS.API.csproj|c:\\users\\hibaa\\source\\repos\\erms.api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78C0DD-646D-4AEB-BE04-BCADAC2895CF}|..\\ERMS.API\\ERMS.API.csproj|c:\\users\\hibaa\\source\\repos\\erms.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78C0DD-646D-4AEB-BE04-BCADAC2895CF}|..\\ERMS.API\\ERMS.API.csproj|c:\\users\\hibaa\\source\\repos\\erms.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78C0DD-646D-4AEB-BE04-BCADAC2895CF}|..\\ERMS.API\\ERMS.API.csproj|c:\\users\\hibaa\\source\\repos\\erms.api\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78C0DD-646D-4AEB-BE04-BCADAC2895CF}|..\\ERMS.API\\ERMS.API.csproj|c:\\users\\hibaa\\source\\repos\\erms.api\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78C0DD-646D-4AEB-BE04-BCADAC2895CF}|..\\ERMS.API\\ERMS.API.csproj|c:\\users\\hibaa\\source\\repos\\erms.api\\interfaces\\iworktaskdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78C0DD-646D-4AEB-BE04-BCADAC2895CF}|..\\ERMS.API\\ERMS.API.csproj|c:\\users\\hibaa\\source\\repos\\erms.api\\data\\projectdatainmemory .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78C0DD-646D-4AEB-BE04-BCADAC2895CF}|..\\ERMS.API\\ERMS.API.csproj|c:\\users\\hibaa\\source\\repos\\erms.api\\interfaces\\iprojectdata.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78C0DD-646D-4AEB-BE04-BCADAC2895CF}|..\\ERMS.API\\ERMS.API.csproj|c:\\users\\hibaa\\source\\repos\\erms.api\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78C0DD-646D-4AEB-BE04-BCADAC2895CF}|..\\ERMS.API\\ERMS.API.csproj|c:\\users\\hibaa\\source\\repos\\erms.api\\interfaces\\iemployeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78C0DD-646D-4AEB-BE04-BCADAC2895CF}|..\\ERMS.API\\ERMS.API.csproj|c:\\users\\hibaa\\source\\repos\\erms.api\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78C0DD-646D-4AEB-BE04-BCADAC2895CF}|..\\ERMS.API\\ERMS.API.csproj|c:\\users\\hibaa\\source\\repos\\erms.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F78C0DD-646D-4AEB-BE04-BCADAC2895CF}|..\\ERMS.API\\ERMS.API.csproj|c:\\users\\hibaa\\source\\repos\\erms.api\\erms.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\models\\worktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:models\\worktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\data\\migrations\\20250404000131_yr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:data\\migrations\\20250404000131_yr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\data\\migrations\\20250403235852_tp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:data\\migrations\\20250403235852_tp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\data\\migrations\\20250403235211_tt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:data\\migrations\\20250403235211_tt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\data\\migrations\\20250403234713_o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:data\\migrations\\20250403234713_o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hibaa\\source\\repos\\ERMS\\Data\\Migrations\\20250403234304_oo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20250403234304_oo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hibaa\\source\\repos\\ERMS\\Data\\Migrations\\20250403233828_qq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20250403233828_qq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hibaa\\source\\repos\\ERMS\\Data\\Migrations\\20250403233652_l.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20250403233652_l.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\data\\migrations\\20250403233316_i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:data\\migrations\\20250403233316_i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hibaa\\source\\repos\\ERMS\\Data\\Migrations\\20250403233113_y.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20250403233113_y.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hibaa\\source\\repos\\ERMS\\Data\\Migrations\\20250403232609_d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20250403232609_d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/hibaalashraf/PROG_36944/True/SqlTable/dbo.AspNetUserRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/hibaalashraf/PROG_36944/True/SqlTable/dbo.AspNetRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\data\\migrations\\20250329223442_new1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:data\\migrations\\20250329223442_new1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|c:\\users\\hibaa\\source\\repos\\erms\\data\\migrations\\20250329223050_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3F1E53-CC97-4232-9BF2-3A4934B25D70}|ERMS.csproj|solutionrelative:data\\migrations\\20250329223050_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "..\\ERMS.API\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "..\\ERMS.API\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T00:52:04.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Views\\WorkTasks\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\WorkTasks\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Views\\WorkTasks\\Details.cshtml",
+              "RelativeToolTip": "Views\\WorkTasks\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T18:28:17.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ERMS.API",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\ERMS.API.csproj",
+              "RelativeDocumentMoniker": "..\\ERMS.API\\ERMS.API.csproj",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\ERMS.API.csproj",
+              "RelativeToolTip": "..\\ERMS.API\\ERMS.API.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-04T00:48:27.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ERMS",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\ERMS.csproj",
+              "RelativeDocumentMoniker": "ERMS.csproj",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\ERMS.csproj",
+              "RelativeToolTip": "ERMS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-04T00:48:08.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "..\\ERMS.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "..\\ERMS.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:31:45.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WorkTasksController.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Controllers\\WorkTasksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WorkTasksController.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Controllers\\WorkTasksController.cs",
+              "RelativeToolTip": "Controllers\\WorkTasksController.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAYwHYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:28:58.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Views\\WorkTasks\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\WorkTasks\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Views\\WorkTasks\\Edit.cshtml",
+              "RelativeToolTip": "Views\\WorkTasks\\Edit.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAiwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T18:07:37.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Views\\WorkTasks\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\WorkTasks\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Views\\WorkTasks\\Create.cshtml",
+              "RelativeToolTip": "Views\\WorkTasks\\Create.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAACgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T23:39:54.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Views\\WorkTasks\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\WorkTasks\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Views\\WorkTasks\\Index.cshtml",
+              "RelativeToolTip": "Views\\WorkTasks\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T00:03:00.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WorkTasksController.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\Controllers\\WorkTasksController.cs",
+              "RelativeDocumentMoniker": "..\\ERMS.API\\Controllers\\WorkTasksController.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\Controllers\\WorkTasksController.cs",
+              "RelativeToolTip": "..\\ERMS.API\\Controllers\\WorkTasksController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwB0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:13:33.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WorkTaskApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Services\\WorkTaskApiService.cs",
+              "RelativeDocumentMoniker": "Services\\WorkTaskApiService.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Services\\WorkTaskApiService.cs",
+              "RelativeToolTip": "Services\\WorkTaskApiService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAYwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T17:16:32.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WorkTask.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\Models\\WorkTask.cs",
+              "RelativeDocumentMoniker": "..\\ERMS.API\\Models\\WorkTask.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\Models\\WorkTask.cs",
+              "RelativeToolTip": "..\\ERMS.API\\Models\\WorkTask.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T00:36:27.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WorkTaskDataInMemory.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\Data\\WorkTaskDataInMemory.cs",
+              "RelativeDocumentMoniker": "..\\ERMS.API\\Data\\WorkTaskDataInMemory.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\Data\\WorkTaskDataInMemory.cs",
+              "RelativeToolTip": "..\\ERMS.API\\Data\\WorkTaskDataInMemory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:12:57.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:28:17.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TestsController.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Controllers\\TestsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TestsController.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Controllers\\TestsController.cs",
+              "RelativeToolTip": "Controllers\\TestsController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:30:39.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Services\\EmployeeApiService.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeApiService.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Services\\EmployeeApiService.cs",
+              "RelativeToolTip": "Services\\EmployeeApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T16:52:57.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProjectApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Services\\ProjectApiService.cs",
+              "RelativeDocumentMoniker": "Services\\ProjectApiService.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Services\\ProjectApiService.cs",
+              "RelativeToolTip": "Services\\ProjectApiService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T17:04:40.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAApwBsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:32:00.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:27:15.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeeDataInMemory.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\Data\\EmployeeDataInMemory.cs",
+              "RelativeDocumentMoniker": "..\\ERMS.API\\Data\\EmployeeDataInMemory.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\Data\\EmployeeDataInMemory.cs",
+              "RelativeToolTip": "..\\ERMS.API\\Data\\EmployeeDataInMemory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T00:53:21.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\ERMS.API\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\Models\\Employee.cs",
+              "RelativeToolTip": "..\\ERMS.API\\Models\\Employee.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T00:25:31.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ERMS.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\Program.cs",
+              "RelativeToolTip": "..\\ERMS.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T00:53:41.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\ERMS.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\appsettings.json",
+              "RelativeToolTip": "..\\ERMS.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-05T15:50:21.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "..\\ERMS.API\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "..\\ERMS.API\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:04:25.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "..\\ERMS.API\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\Models\\LoginModel.cs",
+              "RelativeToolTip": "..\\ERMS.API\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:32:10.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IWorkTaskData.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\Interfaces\\IWorkTaskData.cs",
+              "RelativeDocumentMoniker": "..\\ERMS.API\\Interfaces\\IWorkTaskData.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\Interfaces\\IWorkTaskData.cs",
+              "RelativeToolTip": "..\\ERMS.API\\Interfaces\\IWorkTaskData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:12:04.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProjectDataInMemory .cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\Data\\ProjectDataInMemory .cs",
+              "RelativeDocumentMoniker": "..\\ERMS.API\\Data\\ProjectDataInMemory .cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\Data\\ProjectDataInMemory .cs",
+              "RelativeToolTip": "..\\ERMS.API\\Data\\ProjectDataInMemory .cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:03:51.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IProjectData.cs.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\Interfaces\\IProjectData.cs.cs",
+              "RelativeDocumentMoniker": "..\\ERMS.API\\Interfaces\\IProjectData.cs.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\Interfaces\\IProjectData.cs.cs",
+              "RelativeToolTip": "..\\ERMS.API\\Interfaces\\IProjectData.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:03:13.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IEmployeeData.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\Interfaces\\IEmployeeData.cs",
+              "RelativeDocumentMoniker": "..\\ERMS.API\\Interfaces\\IEmployeeData.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\Interfaces\\IEmployeeData.cs",
+              "RelativeToolTip": "..\\ERMS.API\\Interfaces\\IEmployeeData.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T00:52:14.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "..\\ERMS.API\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\Models\\Project.cs",
+              "RelativeToolTip": "..\\ERMS.API\\Models\\Project.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T00:36:10.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "..\\ERMS.API\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "..\\ERMS.API\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T00:42:52.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\ERMS.API\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\ERMS.API\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T00:51:40.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ERMS.API",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\ERMS.API.csproj",
+              "RelativeDocumentMoniker": "..\\ERMS.API\\ERMS.API.csproj",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS.API\\ERMS.API.csproj",
+              "RelativeToolTip": "..\\ERMS.API\\ERMS.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-04T00:57:10.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "WorkTask.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Models\\WorkTask.cs",
+              "RelativeDocumentMoniker": "Models\\WorkTask.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Models\\WorkTask.cs",
+              "RelativeToolTip": "Models\\WorkTask.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:16:54.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Create.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T00:48:36.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:15:38.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "Models\\Project.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Models\\Project.cs",
+              "RelativeToolTip": "Models\\Project.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:16:11.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250404000131_yr.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Data\\Migrations\\20250404000131_yr.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250404000131_yr.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Data\\Migrations\\20250404000131_yr.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250404000131_yr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T00:01:32.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20250403235852_tp.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Data\\Migrations\\20250403235852_tp.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250403235852_tp.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Data\\Migrations\\20250403235852_tp.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250403235852_tp.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:58:52.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20250403235211_tt.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Data\\Migrations\\20250403235211_tt.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250403235211_tt.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Data\\Migrations\\20250403235211_tt.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250403235211_tt.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:52:12.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20250403234713_o.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Data\\Migrations\\20250403234713_o.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250403234713_o.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Data\\Migrations\\20250403234713_o.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250403234713_o.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:47:14.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20250403234304_oo.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Data\\Migrations\\20250403234304_oo.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250403234304_oo.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Data\\Migrations\\20250403234304_oo.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250403234304_oo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:43:05.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20250403233828_qq.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Data\\Migrations\\20250403233828_qq.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250403233828_qq.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Data\\Migrations\\20250403233828_qq.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250403233828_qq.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:38:28.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T00:20:14.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20250403233652_l.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Data\\Migrations\\20250403233652_l.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250403233652_l.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Data\\Migrations\\20250403233652_l.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250403233652_l.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:36:52.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250403233316_i.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Data\\Migrations\\20250403233316_i.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250403233316_i.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Data\\Migrations\\20250403233316_i.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250403233316_i.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:33:17.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20250403233113_y.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Data\\Migrations\\20250403233113_y.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250403233113_y.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Data\\Migrations\\20250403233113_y.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250403233113_y.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:31:13.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Models\\Test.cs",
+              "RelativeDocumentMoniker": "Models\\Test.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Models\\Test.cs",
+              "RelativeToolTip": "Models\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:28:44.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:17:44.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20250403232609_d.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Data\\Migrations\\20250403232609_d.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250403232609_d.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Data\\Migrations\\20250403232609_d.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250403232609_d.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:26:10.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Views\\Employees\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Views\\Employees\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Delete.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T00:51:02.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Views\\Employees\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Views\\Employees\\Details.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Details.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T00:50:50.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Views\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Views\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T00:50:49.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T00:49:57.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T00:49:45.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "dbo.AspNetUserRoles.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/hibaalashraf/PROG_36944/True/SqlTable/dbo.AspNetUserRoles.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/hibaalashraf/PROG_36944/True/SqlTable/dbo.AspNetUserRoles.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-01T00:16:59.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "dbo.AspNetRoles.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/hibaalashraf/PROG_36944/True/SqlTable/dbo.AspNetRoles.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/hibaalashraf/PROG_36944/True/SqlTable/dbo.AspNetRoles.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-01T00:17:08.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCMAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T23:10:54.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-29T22:32:47.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20250329223442_new1.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Data\\Migrations\\20250329223442_new1.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250329223442_new1.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Data\\Migrations\\20250329223442_new1.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250329223442_new1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:34:42.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-31T23:09:19.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20250329223050_new.cs",
+              "DocumentMoniker": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Data\\Migrations\\20250329223050_new.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250329223050_new.cs",
+              "ToolTip": "C:\\Users\\Hibaa\\source\\repos\\ERMS\\Data\\Migrations\\20250329223050_new.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250329223050_new.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:30:50.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 142,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
